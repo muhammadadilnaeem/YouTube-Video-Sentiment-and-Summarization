@@ -1,0 +1,11 @@
+google-generativeai
+google-auth-oauthlib
+google-auth-httplib2
+python.env
+streamlit
+matplotlib
+google-api-python-client
+textblob
+youtube-transcript-api
+isodate
+python-dateutil
