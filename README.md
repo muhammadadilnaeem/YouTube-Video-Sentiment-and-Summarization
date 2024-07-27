@@ -91,6 +91,6 @@ The **YouTube Video Sentiment and Summarization** project is a comprehensive too
 
 
 ## **License 📄**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammadadilnaeem/YouTube-Video-Sentiment-and-Summarization/blob/main/LICENSE) file for more details.
 
 ---
